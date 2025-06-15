@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Sharada Srinivasan, a DPhil Student at the University of Oxford.
 - 👀 I’m interested in research around technology, inclusion, and international development.
-- I use this git to store important projects and share what I learn with the world.
+- My thesis is titled 'Inequalities in a Digital World: Measurement, Impact, and Implications'
+
